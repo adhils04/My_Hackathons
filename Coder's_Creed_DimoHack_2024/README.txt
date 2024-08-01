@@ -1,0 +1,1 @@
+This directory contains the project our team has done for DimoHack 2024 Web3 Hackathon at VIT-AP University
